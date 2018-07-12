@@ -3,11 +3,15 @@ TODOS for Social Security Name Counts
 
 Cookie version: 2018.07.11 [Attempt at proper Makefile]
 
+## Next
+
+- [ ] Import to vanilla db
+- [ ] Make Makefile more modular and generic, e.g. change fetch_zips to fetch, etc.
+
 ## Wrangling
 
 - [x] Fetch the data
 - [x] Collate nation and state csvs
-- [ ] Import to vanilla db
 
 ## Questions
 
